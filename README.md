@@ -10,7 +10,7 @@ Tento modul poskytuje českou lokalizaci pro FXMaster verze 6.0.8. Obsahuje pře
 Pro instalaci modulu obvyklým upůsobem můžeš použít následující odkaz ve Foundry VTT:
 
 ```
-https://raw.githubusercontent.com/Lethrendis/CzechTranslationFXMaster/main/module.json
+https://raw.githubusercontent.com/Lethrendis/CzechTranslationFXMaster/Core12/module.json
 ```
 
 ## Autor
